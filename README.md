@@ -1,7 +1,8 @@
 ![](https://imgur.com/XSGHNLJ.png)
-### Connect with me:  <a href="https://www.instagram.com/lidiacodes/" target="_blank"> ![](https://badgen.net/badge/icon/Instagram/pink?icon=https://svgshare.com/i/V8p.svg&label) </a>  <a href="https://www.linkedin.com/in/lidia-kovac/" target="_blank">![](https://badgen.net/badge/icon/LinkedIn/cyan?icon=rss&label)</a>
 ## 
 ## 🚰 This is your sign to go drink water if you haven't in a while! 🚰
+### Connect with me:  <a href="https://www.instagram.com/lidiacodes/" target="_blank"> ![](https://badgen.net/badge/icon/Instagram/pink?icon=https://svgshare.com/i/V8p.svg&label) </a>  <a href="https://www.linkedin.com/in/lidia-kovac/" target="_blank">![](https://badgen.net/badge/icon/LinkedIn/cyan?icon=rss&label)</a>
+
 
 
 ### 🤔 Who am I? 
@@ -25,6 +26,8 @@ I want to focus a lot on accessibility, so feel free to pop some suggestions! �
 ### 🏋️‍♀️ In my free time... 
 
 In my free time I am a crossfitter, avid gamer and language student. I am currently enrolled in university for a bachelor in modern languages and cultures, which will be followed by a Digital Humanities master and, why not, a Digital Humanities doctorate. 
+
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LidiaKovac&show_icons=true&theme=dark)
 
