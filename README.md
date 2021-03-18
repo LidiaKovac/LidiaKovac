@@ -10,7 +10,12 @@ I build projects that inspire me, and try to make them accessible to everyone.
 
 ### 🖥️ My stack: 
 
-![](https://badgen.net/badge/icon/github/purple?icon=github&label) ![](https://badgen.net/badge/icon/postgresql?icon=postgresql&label) ![](https://badgen.net/badge/icon/React/cyan?icon=atom&label) ![](https://badgen.net/badge/icon/typescript?icon=typescript&label)
+![](https://badgen.net/badge/icon/github/purple?icon=github&label) ![](https://badgen.net/badge/icon/postgresql?icon=postgresql&label) ![](https://badgen.net/badge/icon/React/cyan?icon=atom&label) ![](https://badgen.net/badge/icon/typescript?icon=typescript&label) ![](https://badgen.net/badge/icon/javascript/yellow?icon=https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg&label) ![](https://badgen.net/badge/icon/node.js/green?icon=https://svgshare.com/i/VAt.svg&label) ![](https://badgen.net/badge/icon/express.js/red?icon=bitcoin-lightning&label)
+![](https://badgen.net/badge/icon/mongodb/green?icon=https://svgshare.com/i/VB3.svg&label)
+
+
+
+
 
 ### 💬 Currently working on...
 [My solo capstone!](https://github.com/LidiaKovac/learning-management-system-FE)
@@ -23,19 +28,3 @@ In my free time I am a crossfitter, avid gamer and language student. I am curren
 
 
 
-
-
-<!--
-**LidiaKovac/LidiaKovac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
