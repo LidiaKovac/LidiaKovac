@@ -26,5 +26,6 @@ I want to focus a lot on accessibility, so feel free to pop some suggestions! ðŸ
 
 In my free time I am a crossfitter, avid gamer and language student. I am currently enrolled in university for a bachelor in modern languages and cultures, which will be followed by a Digital Humanities master and, why not, a Digital Humanities doctorate. 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LidiaKovac&show_icons=true&theme=dark)
 
 
