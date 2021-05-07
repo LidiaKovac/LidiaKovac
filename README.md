@@ -28,11 +28,19 @@ Here is a list of things I am interested in. Keep in mind these are only topics 
 - IOT, Raspeberry Pi and Arduino
 
 #### List of 101 repos (will hopefully grow bigger soon 📚!): 
+Key: 
 
-| Topic     | Enjoyment (1/5) |
-| ----------- | ----------- |
-| <a href="https://github.com/LidiaKovac/PHP-101">Vanilla PHP</a>     |   ⭐⭐     |
-| <a href="https://github.com/LidiaKovac/JS_GameDev-101">JS Game Dev</a>   |  ⭐⭐⭐⭐⭐      |
+🛑 Gave up, did not enjoy or it was too hard 
+
+⏰ Still ongoing
+
+✔️ Done! 
+
+
+| Topic     | Enjoyment (1/5) | State
+| ----------- | ----------- | ---------- |
+| <a href="https://github.com/LidiaKovac/PHP-101">Vanilla PHP</a>     |   ⭐⭐     | 🛑
+| <a href="https://github.com/LidiaKovac/JS_GameDev-101">JS Game Dev</a>   |  ⭐⭐⭐⭐⭐      | ⏰
 
 ### 🏋️‍♀️ In my free time... 
 
