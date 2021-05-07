@@ -15,8 +15,6 @@ I build projects that inspire me, and try to make them accessible to everyone.
 ![](https://badgen.net/badge/icon/mongodb/green?icon=https://svgshare.com/i/VB3.svg&label)
 
 
-
-
 ### 💬 Currently working on...
 As I have now graduated from Strive School (capstone <a href="https://learn-ez.netlify.app">HERE</a> is you are curious, you can also visit the <a href="https://github.com/LidiaKovac/learning-management-system-FE">repository</a>), I am trying a number of different things. I share all my progress here, under x-101 repositories (e.g. my PHP-101 repo). 
 
@@ -29,6 +27,12 @@ Here is a list of things I am interested in. Keep in mind these are only topics 
 - Svelte 
 - IOT, Raspeberry Pi and Arduino
 
+#### List of 101 repos (will hopefully grow bigger soon 📚!): 
+
+| Topic     | Enjoyment (1/5) |
+| ----------- | ----------- |
+| <a href="https://github.com/LidiaKovac/PHP-101">Vanilla PHP</a>     |   ⭐⭐     |
+| <a href="https://github.com/LidiaKovac/JS_GameDev-101">JS Game Dev</a>   |  ⭐⭐⭐⭐⭐      |
 
 ### 🏋️‍♀️ In my free time... 
 
