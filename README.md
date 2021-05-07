@@ -28,7 +28,7 @@ Here is a list of things I am interested in. Keep in mind these are only topics 
 - IOT, Raspeberry Pi and Arduino
 
 #### List of 101 repos (will hopefully grow bigger soon 📚!): 
-**Key: 
+**Key**: 
 
 🛑 Gave up, did not enjoy or it was too hard 
 
