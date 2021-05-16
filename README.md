@@ -17,6 +17,7 @@ I build projects that inspire me, and try to make them accessible to everyone.
 
 ### 💬 Currently working on...
 As I have now graduated from Strive School (capstone <a href="https://learn-ez.netlify.app">HERE</a> is you are curious, you can also visit the <a href="https://github.com/LidiaKovac/learning-management-system-FE">repository</a>), I am trying a number of different things. I share all my progress here, under x-101 repositories (e.g. my PHP-101 repo). 
+Please keep in mind that this is not to "expand my stack" or "add languages to my resume", since I am only learning the basics and sometimes building small projects. This is to explore the range of programming languages and decide what could be the next thing to learn in depth. 
 
 When I am not coding, I am focusing on my bachelor in languages and getting ready to enroll in a Digital Humanities MD. 
 
