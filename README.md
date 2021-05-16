@@ -24,7 +24,7 @@ Here is a list of things I am interested in. Keep in mind these are only topics 
 
 - Python, AI, Machine Learning, especially around humanities (poetry, translation, art)
 - Game Development
-- Svelte 
+- Some kind of desktop apps 
 - IOT, Raspeberry Pi and Arduino
 
 #### List of 101 repos (will hopefully grow bigger soon 📚!): 
