@@ -22,7 +22,7 @@ When I am not coding, I am focusing on my bachelor in languages and getting read
 
 Here is a list of things I am interested in. Keep in mind these are only topics I want to know more about, I might or might not deep dive in these. 
 
-- Python, AI, Machine Learning, especially vis-a-vis humanities (poetry, translation, art)
+- Python, AI, Machine Learning, especially around humanities (poetry, translation, art)
 - Game Development
 - Svelte 
 - IOT, Raspeberry Pi and Arduino
