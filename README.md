@@ -24,7 +24,7 @@ Here is a list of things I am interested in. Keep in mind these are only topics 
 
 - Python, AI, Machine Learning, especially around humanities (poetry, translation, art)
 - Game Development
-- Some kind of desktop apps 
+- Some kind of desktop apps (like Electron)
 - IOT, Raspeberry Pi and Arduino
 
 #### List of 101 repos (will hopefully grow bigger soon 📚!): 
