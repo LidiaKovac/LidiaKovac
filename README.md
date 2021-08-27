@@ -46,6 +46,11 @@ Here is a list of things I am interested in. Keep in mind these are only topics 
 | <a href='https://github.com/LidiaKovac/Python-101'>Python 101</a> | ⭐⭐⭐⭐⭐ | ✔️
 | <a href='https://github.com/LidiaKovac/Python102-CV'>Python CV</a> | | ⏰
 
+#### List of pre-made components:
+
+| Component                                                                                | React | VanillaJS |
+| ---------------------------------------------------------------------------------------- | ------| --------- |
+| <a href="https://github.com/LidiaKovac/custom-select-dropdown">Dropdown / Select</a>     |✔️     |✔️        |
 ### 🏋️‍♀️ In my free time... 
 
 In my free time I do crossfit, acrobatics and sometime I game. I am currently enrolled in university for a bachelor in modern languages and cultures, which will be followed by a Digital Humanities master and, why not, a Digital Humanities doctorate. 
