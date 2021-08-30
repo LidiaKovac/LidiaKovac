@@ -51,6 +51,10 @@ Here is a list of things I am interested in. Keep in mind these are only topics 
 | Component                                                                                | React | VanillaJS |
 | ---------------------------------------------------------------------------------------- | ------| --------- |
 | <a href="https://github.com/LidiaKovac/custom-select-dropdown">Dropdown / Select</a>     |✔️     |✔️        |
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O1609AE)
+
+
 ### 🏋️‍♀️ In my free time... 
 
 In my free time I do crossfit, acrobatics and sometime I game. I am currently enrolled in university for a bachelor in modern languages and cultures, which will be followed by a Digital Humanities master and, why not, a Digital Humanities doctorate. 
