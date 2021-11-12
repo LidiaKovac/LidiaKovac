@@ -1,4 +1,4 @@
-![](https://imgur.com/XSGHNLJ.png)
+![](https://imgur.com/DAxT4ru.png)
 ## 
 ## 🚰 This is your sign to go drink water if you haven't in a while! 🚰
 ### Connect with me:  <a href="https://www.instagram.com/lidiacodes/" target="_blank"> ![](https://badgen.net/badge/icon/Instagram/pink?icon=https://svgshare.com/i/V8p.svg&label) </a>  <a href="https://www.linkedin.com/in/lidia-kovac/" target="_blank">![](https://badgen.net/badge/icon/LinkedIn/cyan?icon=rss&label)</a>
