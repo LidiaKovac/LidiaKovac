@@ -5,10 +5,6 @@
 
 ### <a href="https://lidiakovac.it" target="_blank">PORTFOLIO</a>
 
-### 🤔 Who am I? 
-I am a MERN Stack Developer deeply in love with Typescript and frontend. 
-I build projects that inspire me, and try to make them accessible to everyone.
-
 ### 🖥️ My stack: 
 
 ![](https://badgen.net/badge/icon/github/purple?icon=github&label) ![](https://badgen.net/badge/icon/postgresql?icon=postgresql&label) ![](https://badgen.net/badge/icon/React/cyan?icon=atom&label) ![](https://badgen.net/badge/icon/typescript?icon=typescript&label) ![](https://badgen.net/badge/icon/javascript/yellow?icon=https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg&label) ![](https://badgen.net/badge/icon/node.js/green?icon=https://svgshare.com/i/VAt.svg&label) ![](https://badgen.net/badge/icon/express.js/red?icon=bitcoin-lightning&label)
