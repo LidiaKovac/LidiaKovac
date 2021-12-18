@@ -8,11 +8,24 @@
 ### 🖥️ My stack: 
 
 ![](https://badgen.net/badge/icon/github/purple?icon=github&label) ![](https://badgen.net/badge/icon/postgresql?icon=postgresql&label) ![](https://badgen.net/badge/icon/React/cyan?icon=atom&label) ![](https://badgen.net/badge/icon/typescript?icon=typescript&label) ![](https://badgen.net/badge/icon/javascript/yellow?icon=https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg&label) ![](https://badgen.net/badge/icon/node.js/green?icon=https://svgshare.com/i/VAt.svg&label) ![](https://badgen.net/badge/icon/express.js/red?icon=bitcoin-lightning&label)
-![](https://badgen.net/badge/icon/mongodb/green?icon=https://svgshare.com/i/VB3.svg&label)
+![](https://badgen.net/badge/icon/mongodb/green?icon=https://svgshare.com/i/VB3.svg&label) ![](https://badgen.net/badge/icon/python/blue?icon=slack&label)
+
+
 
 
 ### 💬 Currently working on...
-As I have now graduated from Strive School (capstone <a href="https://learn-ez.netlify.app">HERE</a> is you are curious, you can also visit the <a href="https://github.com/LidiaKovac/learning-management-system-FE">repository</a>), I am trying a number of different things. I share all my progress here, under x-101 repositories (e.g. my PHP-101 repo). 
+
+#### Wishlist
+I am currenctyl working on a project called Wishlist. I am using a number of technologies which is bigger than my usual MERN + TS combo. The project consist of THREE REPOS.
+Here is the <a href='https://github.com/LidiaKovac/wishlist-ts' target='blank'> frontend repo </a>, here is the <a href='https://github.com/LidiaKovac/wishlist-be' target='blank'> main API repo </a> and here is the <a href='https://github.com/LidiaKovac/wishlist-be-py' target='blank'> web scraping API repo </a>. 
+
+The final project will consist of a web page that shows clothes from various clothing websites, allowing users to build a multi-site wishlist. 
+
+The project is still ongoing, but as for right now I think I got banned from a couple of websites by mistake (oops 😅). 
+
+
+#### The 101 Project
+As I have now graduated from Strive School (been almost a year 😮 ), I am trying a number of different things. I share all my progress here, under x-101 repositories (e.g. my PHP-101 repo). 
 
 Please keep in mind that this is not to "expand my stack" or "add languages to my resume", since I am only learning the basics and sometimes building small projects. This is to explore the range of programming languages and decide what could be the next thing to learn in depth. 
 
