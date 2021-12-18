@@ -45,6 +45,7 @@ Here is a list of things I am interested in. Keep in mind these are only topics 
 | <a href="https://github.com/LidiaKovac/JS_GameDev-101">JS Game Dev</a>   |  ⭐⭐⭐⭐⭐      | ✔️
 | <a href='https://github.com/LidiaKovac/Python-101'>Python 101</a> | ⭐⭐⭐⭐⭐ | ✔️
 | <a href='https://github.com/LidiaKovac/Python102-CV'>Python CV</a> | | ⏰
+| <a href='https://github.com/LidiaKovac/Python103-Web Scraping'>Python Web Scraping </a> | ⭐⭐⭐⭐⭐ | ✔️
 
 #### List of pre-made components:
 
