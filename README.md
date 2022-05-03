@@ -22,6 +22,7 @@ This is my newest project, based on my interest for digital humanities.
 I started this as a small research for a literature exam involving collecting poetry from various sources and cataloguing them by keywords. 
 At the moment, I am using bootstrap for the layout, as it is not a front-end centered project and I needed a quick solution. 
 For the backend, I am using node paired with MongoDB to collect the data and the <b>node-nlp</b> library to perform NLP operations such as removing stopwords and stemming the text. 
+In the future I am planning on implementing more statistics to filter by year and add more authors as well as more ways to upload poems, possibily choosing to use a python microservice to do some OCR.
 
 #### Wishlist
 I am currently working on a project called Wishlist. I am using a number of technologies which is bigger than my usual MERN + TS combo. The project consist of THREE REPOS.
