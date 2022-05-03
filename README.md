@@ -63,8 +63,9 @@ Here is a list of things I am interested in. Keep in mind these are only topics 
 | <a href="https://github.com/LidiaKovac/PHP-101">Vanilla PHP</a>     |   ⭐⭐     | 🛑
 | <a href="https://github.com/LidiaKovac/JS_GameDev-101">JS Game Dev</a>   |  ⭐⭐⭐⭐⭐      | ✔️
 | <a href='https://github.com/LidiaKovac/Python-101'>Python 101</a> | ⭐⭐⭐⭐⭐ | ✔️
-| <a href='https://github.com/LidiaKovac/Python102-CV'>Python CV</a> | | ⏰
-| <a href='https://github.com/LidiaKovac/Python103-Web Scraping'>Python Web Scraping </a> | ⭐⭐⭐⭐⭐ | ✔️
+| <a href='https://github.com/LidiaKovac/Python102-CV'>Python 102 - CV</a> | | ⏰
+| <a href='https://github.com/LidiaKovac/Python103-Web Scraping'>Python 103 - Web Scraping </a> | ⭐⭐⭐⭐⭐ | ✔️
+| <a href='https://github.com/LidiaKovac/Python-104-DS-Basics'> Python 104 - Data Science </a> | | ⏰
 
 #### List of pre-made components:
 
