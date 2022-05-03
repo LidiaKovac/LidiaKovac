@@ -3,7 +3,7 @@
 ## 🚰 This is your sign to go drink water if you haven't in a while! 🚰
 ### Connect with me:  <a href="https://www.instagram.com/lidiacodes/" target="_blank"> ![](https://badgen.net/badge/icon/Instagram/pink?icon=https://svgshare.com/i/V8p.svg&label) </a>  <a href="https://www.linkedin.com/in/lidia-kovac/" target="_blank">![](https://badgen.net/badge/icon/LinkedIn/cyan?icon=rss&label)</a>
 
-### <a href="https://lidiakovac.it" target="_blank">PORTFOLIO</a>
+### <a href="https://lidiakovac.it" target="_blank">VISIT MY WEBSITE!</a>
 
 ### 🖥️ My stack: 
 
@@ -15,21 +15,29 @@
 
 ### 💬 Currently working on...
 
+
+#### Dikter Management System
+
+This is my newest project, based on my interest for digital humanities.
+I started this as a small research for a literature exam involving collecting poetry from various sources and cataloguing them by keywords. 
+At the moment, I am using bootstrap for the layout, as it is not a front-end centered project and I needed a quick solution. 
+For the backend, I am using node paired with MongoDB to collect the data and the <b>node-nlp</b> library to perform NLP operations such as removing stopwords and stemming the text. 
+
 #### Wishlist
-I am currenctyl working on a project called Wishlist. I am using a number of technologies which is bigger than my usual MERN + TS combo. The project consist of THREE REPOS.
+I am currently working on a project called Wishlist. I am using a number of technologies which is bigger than my usual MERN + TS combo. The project consist of THREE REPOS.
 Here is the <a href='https://github.com/LidiaKovac/wishlist-ts' target='blank'> frontend repo </a>, here is the <a href='https://github.com/LidiaKovac/wishlist-be' target='blank'> main API repo </a> and here is the <a href='https://github.com/LidiaKovac/wishlist-be-py' target='blank'> web scraping API repo </a>. 
 
 The final project will consist of a web page that shows clothes from various clothing websites, allowing users to build a multi-site wishlist. 
 
-The project is still ongoing, but as for right now I think I got banned from a couple of websites by mistake (oops 😅). 
-
 
 #### The 101 Project
-As I have now graduated from Strive School (been almost a year 😮 ), I am trying a number of different things. I share all my progress here, under x-101 repositories (e.g. my PHP-101 repo). 
 
-Please keep in mind that this is not to "expand my stack" or "add languages to my resume", since I am only learning the basics and sometimes building small projects. This is to explore the range of programming languages and decide what could be the next thing to learn in depth. 
+##### News! This project is currently "paused" as I am going deeper into Web Scraping with the Wishlist project.
+As I have now graduated from Strive School (been almost a year 😮), I am trying a number of different things. I share all my progress here, under x-101 repositories (e.g. my PHP-101 repo). 
 
-When I am not coding, I am focusing on my bachelor in languages and getting ready to enroll in a Digital Humanities MD. 
+Please keep in mind that this is not to "expand my stack" or "add languages to my resume'", since I am only learning the basics and sometimes building small projects. This is to explore the range of programming languages and decide what could be the next thing to learn in depth. 
+
+When I am not coding, I am focusing on my bachelor in languages and getting ready to enroll in a Digital Humanities Master. 
 
 Here is a list of things I am interested in. Keep in mind these are only topics I want to know more about, I might or might not deep dive in these. 
 
@@ -37,6 +45,8 @@ Here is a list of things I am interested in. Keep in mind these are only topics 
 - Game Development
 - Some kind of desktop apps (like Electron)
 - IOT, Raspeberry Pi and Arduino
+
+
 
 #### List of 101 repos (will hopefully grow bigger soon 📚!): 
 **Key**: 
