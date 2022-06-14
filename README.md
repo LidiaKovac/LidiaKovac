@@ -63,6 +63,7 @@ Here is a list of things I am interested in. Keep in mind these are only topics 
 | ----------- | ----------- | ---------- |
 | <a href="https://github.com/LidiaKovac/PHP-101">Vanilla PHP</a>     |   ⭐⭐     | 🛑
 | <a href="https://github.com/LidiaKovac/JS_GameDev-101">JS Game Dev</a>   |  ⭐⭐⭐⭐⭐      | ✔️
+| <a href="https://github.com/LidiaKovac/gRPC-101">gRPC 101</a>   |  ⭐⭐⭐⭐⭐      | ✔️
 | <a href='https://github.com/LidiaKovac/Python-101'>Python 101</a> | ⭐⭐⭐⭐⭐ | ✔️
 | <a href='https://github.com/LidiaKovac/Python201-CV'>Python 201 - CV</a> | | ⏰
 | <a href='https://github.com/LidiaKovac/Python301-WebScraping'>Python 301 - Web Scraping </a> | ⭐⭐⭐⭐⭐ | ✔️
