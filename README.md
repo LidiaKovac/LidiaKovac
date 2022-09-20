@@ -52,7 +52,7 @@ Here is a list of things I am interested in. Keep in mind these are only topics 
 #### List of 101 repos (will hopefully grow bigger soon 📚!): 
 **Key**: 
 
-🛑 Gave up, did not enjoy or it was too hard 
+🛑 Gave up, did not enjoy
 
 ⏰ Still ongoing
 
