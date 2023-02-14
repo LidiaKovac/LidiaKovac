@@ -1,6 +1,5 @@
 ![](https://imgur.com/DAxT4ru.png)
 ## 
-## 🚰 This is your sign to go drink water if you haven't in a while! 🚰
 ### Connect with me:  <a href="https://www.instagram.com/lidiacodes/" target="_blank"> ![](https://badgen.net/badge/icon/Instagram/pink?icon=https://svgshare.com/i/V8p.svg&label) </a>  <a href="https://www.linkedin.com/in/lidia-kovac/" target="_blank">![](https://badgen.net/badge/icon/LinkedIn/cyan?icon=rss&label)</a>
 
 ### <a href="https://lidiakovac.it" target="_blank">VISIT MY WEBSITE!</a>
@@ -15,25 +14,23 @@
 
 ### 💬 Currently working on...
 
+#### DnD As A Service
 
-#### Dikter Management System
+This project was born from my passion for D&D and role playing, which brings many challenges. One of many, building your character sheet. There are some paid services out there, specifically from Wizard itself, and some free versions, which are PDF based and very slow. 
+The goal with this project would be to build a cloud-based app that makes character sheets faster to build. 
+I am currently working on the backend, collecting DnD 5e data in a database to serve it on the frontend.
 
-This is my newest project, based on my interest for digital humanities.
+#### Dikter Management System - DMS
+##### News! This project is currently "paused" as I am diving deeper into the DnD As A Service project.
+
 I started this as a small research for a literature exam involving collecting poetry from various sources and cataloguing them by keywords. 
 At the moment, I am using bootstrap for the layout, as it is not a front-end centered project and I needed a quick solution. 
 For the backend, I am using node paired with MongoDB to collect the data and the <b>node-nlp</b> library to perform NLP operations such as removing stopwords and stemming the text. 
 In the future I am planning on implementing more statistics to filter by year and add more authors as well as more ways to upload poems, possibily choosing to use a python microservice to do some OCR.
 
-#### Wishlist
-I am currently working on a project called Wishlist. I am using a number of technologies which is bigger than my usual MERN + TS combo. The project consist of THREE REPOS.
-Here is the <a href='https://github.com/LidiaKovac/wishlist-ts' target='blank'> frontend repo </a>, here is the <a href='https://github.com/LidiaKovac/wishlist-be' target='blank'> main API repo </a> and here is the <a href='https://github.com/LidiaKovac/wishlist-be-py' target='blank'> web scraping API repo </a>. 
-
-The final project will consist of a web page that shows clothes from various clothing websites, allowing users to build a multi-site wishlist. 
-
-
 #### The 101 Project
 
-##### News! This project is currently "paused" as I am going deeper into Web Scraping with the Wishlist project.
+##### This project is currently "paused".
 As I have now graduated from Strive School (been almost a year 😮), I am trying a number of different things. I share all my progress here, under x-101 repositories (e.g. my PHP-101 repo). 
 
 Please keep in mind that this is not to "expand my stack" or "add languages to my resume'", since I am only learning the basics and sometimes building small projects. This is to explore the range of programming languages and decide what could be the next thing to learn in depth. 
