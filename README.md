@@ -24,14 +24,7 @@ At the moment, I am using bootstrap for the layout, as it is not a front-end cen
 For the backend, I am using node paired with MongoDB to collect the data and the <b>node-nlp</b> library to perform NLP operations such as removing stopwords and stemming the text. 
 In the future I am planning on implementing more statistics to filter by year and add more authors as well as more ways to upload poems, possibily choosing to use a python microservice to do some OCR.
 
-#### The 101 Project
-
-##### This project is currently "paused".
-As I have now graduated from Strive School (been almost 2 years 😮), I am trying a number of different things. I share all my progress here, under x-101 repositories (e.g. my PHP-101 repo). 
-
-Please keep in mind that this is not to "expand my stack" or "add languages to my resume'", since I am only learning the basics and sometimes building small projects. This is to explore the range of programming languages and decide what could be the next thing to learn in depth. 
-
-When I am not coding, I am focusing on my bachelor in languages and getting ready to enroll in a Digital Humanities Master. 
+  <hr/>
 
 Here is a list of things I am interested in. Keep in mind these are only topics I want to know more about, I might or might not deep dive in these. 
 
