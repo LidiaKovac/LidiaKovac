@@ -1,4 +1,11 @@
 ### Connect with me:  <a href="https://www.instagram.com/lidiacodes/" target="_blank"> ![](https://badgen.net/badge/icon/Instagram/pink?icon=https://svgshare.com/i/V8p.svg&label) </a>  <a href="https://www.linkedin.com/in/lidia-kovac/" target="_blank">![](https://badgen.net/badge/icon/LinkedIn/cyan?icon=rss&label)</a>
+
+### Who am I?
+
+Hi! My name is Lidia and I am a Teaching Assistant at EPICODE (Global and Italy). I have a linguistic background which I use to approach programming languages as natural languages with their own vocabulary, grammar and syntaxes. 
+I also studied art in high school, which makes me much more prone to doing frontend rather than backend (Yes, I may have lied before. Sorry to my backend teacher.).
+I am currently focussing primarily on teaching and building my own projects! 
+
 ### 🖥️ My stack: 
 
 ![](https://badgen.net/badge/icon/github/purple?icon=github&label) ![](https://badgen.net/badge/icon/postgresql?icon=postgresql&label) ![](https://badgen.net/badge/icon/React/cyan?icon=atom&label) ![](https://badgen.net/badge/icon/typescript?icon=typescript&label) ![](https://badgen.net/badge/icon/javascript/yellow?icon=https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg&label) ![](https://badgen.net/badge/icon/node.js/green?icon=https://svgshare.com/i/VAt.svg&label) ![](https://badgen.net/badge/icon/express.js/red?icon=bitcoin-lightning&label)
@@ -32,36 +39,6 @@ Here is a list of things I am interested in. Keep in mind these are only topics 
 - Game Development
 - Some kind of desktop apps (like Electron)
 - IOT, Raspeberry Pi and Arduino
-
-
-
-#### List of 101 repos (will hopefully grow bigger soon 📚!): 
-**Key**: 
-
-🛑 Gave up, did not enjoy
-
-⏰ Still ongoing
-
-✔️ Done! 
-
-
-| Topic     | Enjoyment (1/5) | State
-| ----------- | ----------- | ---------- |
-| <a href="https://github.com/LidiaKovac/PHP-101">Vanilla PHP</a>     |   ⭐⭐     | 🛑
-| <a href="https://github.com/LidiaKovac/JS_GameDev-101">JS Game Dev</a>   |  ⭐⭐⭐⭐⭐      | ✔️
-| <a href="https://github.com/LidiaKovac/gRPC-101">gRPC 101</a>   |  ⭐⭐⭐⭐⭐      | ✔️
-| <a href='https://github.com/LidiaKovac/Python-101'>Python 101</a> | ⭐⭐⭐⭐⭐ | ✔️
-| <a href='https://github.com/LidiaKovac/Python201-CV'>Python 201 - CV</a> | | ⏰
-| <a href='https://github.com/LidiaKovac/Python301-WebScraping'>Python 301 - Web Scraping </a> | ⭐⭐⭐⭐⭐ | ✔️
-| <a href='https://github.com/LidiaKovac/Python-401-DS-Basics'> Python 401 - Data Science </a> | | ⏰
-
-#### List of pre-made components:
-
-| Component                                                                                | React | VanillaJS |
-| ---------------------------------------------------------------------------------------- | ------| --------- |
-| <a href="https://github.com/LidiaKovac/custom-select-dropdown">Dropdown / Select</a>     |✔️     |✔️        |
-
-
 
 
 ### 🏋️‍♀️ In my free time... 
