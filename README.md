@@ -1,12 +1,10 @@
 ### Connect with me:  <a href="https://www.instagram.com/lidiacodes/" target="_blank"> ![](https://badgen.net/badge/icon/Instagram/pink?icon=https://svgshare.com/i/V8p.svg&label) </a>  <a href="https://www.linkedin.com/in/lidia-kovac/" target="_blank">![](https://badgen.net/badge/icon/LinkedIn/cyan?icon=rss&label)</a>
-
-### <a href="https://lidiakovac.it" target="_blank">VISIT MY WEBSITE!</a>
-
 ### 🖥️ My stack: 
 
 ![](https://badgen.net/badge/icon/github/purple?icon=github&label) ![](https://badgen.net/badge/icon/postgresql?icon=postgresql&label) ![](https://badgen.net/badge/icon/React/cyan?icon=atom&label) ![](https://badgen.net/badge/icon/typescript?icon=typescript&label) ![](https://badgen.net/badge/icon/javascript/yellow?icon=https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg&label) ![](https://badgen.net/badge/icon/node.js/green?icon=https://svgshare.com/i/VAt.svg&label) ![](https://badgen.net/badge/icon/express.js/red?icon=bitcoin-lightning&label)
 ![](https://badgen.net/badge/icon/mongodb/green?icon=https://svgshare.com/i/VB3.svg&label) ![](https://badgen.net/badge/icon/python/blue?icon=slack&label)
 
+### 🔗 <a href='https://lidiakovac.github.io/repo-index/'> REPOSITORY INDEX <a/>  🔗
 
 
 
@@ -29,7 +27,7 @@ In the future I am planning on implementing more statistics to filter by year an
 #### The 101 Project
 
 ##### This project is currently "paused".
-As I have now graduated from Strive School (been almost a year 😮), I am trying a number of different things. I share all my progress here, under x-101 repositories (e.g. my PHP-101 repo). 
+As I have now graduated from Strive School (been almost 2 years 😮), I am trying a number of different things. I share all my progress here, under x-101 repositories (e.g. my PHP-101 repo). 
 
 Please keep in mind that this is not to "expand my stack" or "add languages to my resume'", since I am only learning the basics and sometimes building small projects. This is to explore the range of programming languages and decide what could be the next thing to learn in depth. 
 
