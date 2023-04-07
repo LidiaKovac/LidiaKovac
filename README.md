@@ -1,3 +1,4 @@
+![](https://i.imgur.com/4zoXOHg.png)
 ### Connect with me:  <a href="https://www.instagram.com/lidiacodes/" target="_blank"> ![](https://badgen.net/badge/icon/Instagram/pink?icon=https://svgshare.com/i/V8p.svg&label) </a>  <a href="https://www.linkedin.com/in/lidia-kovac/" target="_blank">![](https://badgen.net/badge/icon/LinkedIn/cyan?icon=rss&label)</a>
 
 ### Who am I?
