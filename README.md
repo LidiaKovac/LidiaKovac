@@ -49,6 +49,6 @@ I am currently enrolled in university for a bachelor in modern languages and cul
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LidiaKovac)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LidiaKovac)](https://git.io/streak-stats)
 
 
