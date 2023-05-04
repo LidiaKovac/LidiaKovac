@@ -7,8 +7,6 @@
 
 Hi! My name is Lidia and I am a Teaching Assistant at EPICODE (Global and Italy). I have a linguistic background which I use to approach programming languages as natural languages with their own vocabulary, grammar and syntaxes. 
 
-I also studied art in high school, which makes me much more prone to doing frontend rather than backend (Yes, I may have lied before. Sorry to my backend teacher.).
-
 I am currently focussing primarily on teaching and building my own projects! 
 
 ### 🔗 <a href='https://lidiakovac.github.io/repo-index/'> REPOSITORY INDEX <a/>  🔗
