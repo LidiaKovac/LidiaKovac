@@ -9,7 +9,7 @@ Hi! My name is Lidia and I am a Teaching Assistant at EPICODE (Global and Italy)
 
 I am currently focussing primarily on teaching and building my own projects! 
 
-### 🔗 <a href='https://lidiakovac.github.io/repo-index/'> REPOSITORY INDEX <a/>  🔗
+### 🔗 <a href='https://repos.lidiakovac.it'> REPOSITORY INDEX <a/>  🔗
 
 ### 💬 Currently working on...
 
