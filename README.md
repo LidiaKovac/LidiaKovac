@@ -5,7 +5,7 @@
 
 ### 💫 About Me:
 
-Hi! My name is Lidia and I am a Teaching Assistant at EPICODE (Global and Italy). I have a linguistic background which I use to approach programming languages as natural languages with their own vocabulary, grammar and syntaxes. 
+Hi! My name is Lidia and I am a Teaching Assistant && PT Teacher @ EPICODE (Global and Italy). I have a linguistic background which I use to approach programming languages as natural languages with their own vocabulary, grammar, and syntaxes. 
 
 I am currently focussing primarily on teaching and building my own projects! 
 
@@ -15,23 +15,13 @@ I am currently focussing primarily on teaching and building my own projects!
 
 #### DnD As A Service
 
-This project was born from my passion for D&D and role playing, which brings many challenges. One of many, building your character sheet. There are some paid services out there, specifically from Wizard itself, and some free versions, which are PDF based and very slow. 
+This project aims to be a one-stop place for role-players. 
+It will feature primarily a cloud-based character sheet as well as a place to take notes on your games and, in the future, feature a Dungeon Master view, where the DM can see and add temporary effects on the players. 
 
-The goal with this project would be to build a cloud-based app that makes character sheets faster to build. 
+#### Skin Saver
 
-I am currently working on the backend, collecting DnD 5e data in a database to serve it on the frontend.
-
-#### Dikter Management System - DMS
-
-##### News! This project is currently "paused" as I am diving deeper into the DnD As A Service project.
-
-I started this as a small research for a literature exam involving collecting poetry from various sources and cataloguing them by keywords. 
-
-At the moment, I am using bootstrap for the layout, as it is not a front-end centered project and I needed a quick solution. 
-
-For the backend, I am using node paired with MongoDB to collect the data and the <b>node-nlp</b> library to perform NLP operations such as removing stopwords and stemming the text. 
-
-In the future I am planning on implementing more statistics to filter by year and add more authors as well as more ways to upload poems, possibily choosing to use a python microservice to do some OCR.
+This is an AI-based project which aims to help people get informed and brand-agnostic skin care routines. 
+For the MVP, it will be based on the OpenAI API, but in the future we are aiming at expanding and building a proprietary algorithm. 
 
   <hr/>
 
