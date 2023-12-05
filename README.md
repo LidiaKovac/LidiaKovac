@@ -1,8 +1,5 @@
 ![](https://i.imgur.com/4zoXOHg.png)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ### 💫 About Me:
 
 Hi! My name is Lidia and I am a Teaching Assistant && PT Teacher @ EPICODE (Global and Italy). I have a linguistic background which I use to approach programming languages as natural languages with their own vocabulary, grammar, and syntaxes. 
@@ -10,6 +7,9 @@ Hi! My name is Lidia and I am a Teaching Assistant && PT Teacher @ EPICODE (Glob
 I am currently focussing primarily on teaching and building my own projects! 
 
 ### 🔗 <a href='https://repos.lidiakovac.it'> REPOSITORY INDEX <a/>  🔗
+### My CodePens: 
+- <a href="https://codepen.io/Lidia-Kovac/pen/OJdrwLR"> Animated card - HTML + SASS </a>
+
 
 ### 💬 Currently working on...
 
