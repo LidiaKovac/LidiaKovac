@@ -12,7 +12,7 @@ I am currently focussing primarily on teaching and building my own projects!
 - <a href="https://gist.github.com/LidiaKovac/738dcd0e16b626a3ed1813a45b700900"> Spring Interfaces - IService && IController </a>
 
 
-### 💬 Currently working on...
+<!--- ### 💬 Currently working on...
 
 #### DnD As A Service
 
@@ -25,22 +25,12 @@ This is an AI-based project which aims to help people get informed and brand-agn
 For the MVP, it will be based on the OpenAI API, but in the future we are aiming at expanding and building a proprietary algorithm. 
 
   <hr/>
-
-Here is a list of things I am interested in. Keep in mind these are only topics I want to know more about, I might or might not deep dive in these. 
-
-- Python, AI, Machine Learning, especially around humanities (poetry, translation, art)
-
-- Game Development
-
-- Some kind of desktop apps (like Electron)
-
-- IOT, Raspeberry Pi and Arduino
+--->
 
 ### 🏋️‍♀️ In my free time... 
 
 In my free time I do musical performances, dance and, when time is on my side, I play videogames. 
-
-I am currently enrolled in university for a bachelor in modern languages and cultures, which will be followed by a Digital Humanities master and, why not, a Digital Humanities doctorate. 
+I am currently enrolled in university for a bachelor in modern languages and cultures, which will be followed by a Digital Humanities master dagree. 
 
 ---
 
