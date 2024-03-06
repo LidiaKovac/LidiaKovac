@@ -11,6 +11,8 @@ I am currently focussing primarily on teaching and building my own projects!
 #### Frontend: 
 - <a href="https://codepen.io/Lidia-Kovac/pen/OJdrwLR"> Animated card - HTML + SASS </a>
 - <a href="https://codepen.io/Lidia-Kovac/pen/vYMNEyV"> Animated card #2 - HTML + SASS </a>
+- <a href="https://codepen.io/Lidia-Kovac/pen/oNOjYNV"> Polaroid card - HTML + SASS </a>
+
 #### Backend:
 - <a href="https://gist.github.com/LidiaKovac/738dcd0e16b626a3ed1813a45b700900"> Spring Interfaces - IService && IController </a>
 
