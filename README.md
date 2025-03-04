@@ -6,7 +6,6 @@ Hi! My name is Lidia and I am a Teaching Assistant && PT Teacher @ EPICODE (Glob
 
 I am currently focussing primarily on teaching and building my own projects! 
 
-### 🔗 <a href='https://repos.lidiakovac.it'> REPOSITORY INDEX <a/>  🔗
 ### My CodePens && Gists: 
 #### Frontend: 
 - <a href="https://codepen.io/Lidia-Kovac/pen/OJdrwLR"> Animated card - HTML + SASS </a>
