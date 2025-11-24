@@ -1,4 +1,6 @@
-![](https://i.imgur.com/4zoXOHg.png)
+![](https://i.imgur.com/SMDJqqF.png)
+
+
 
 ### 💫 About Me:
 
