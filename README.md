@@ -5,10 +5,15 @@
 ### 💫 About Me:
 
 Passionate since childhood, blah blah blah- 𝘁𝗵𝗮𝘁'𝘀 𝗻𝗼𝘁 𝘄𝗵𝗮𝘁 𝘆𝗼𝘂'𝗿𝗲 𝗵𝗲𝗿𝗲 𝗳𝗼𝗿.🚨
+
 You want to know 𝘄𝗵𝗼 𝗜 𝗿𝗲𝗮𝗹𝗹𝘆 𝗮𝗺. What I believe in. So:
+
 🎨 I have an 𝘂𝗻𝗰𝗼𝗻𝘃𝗲𝗻𝘁𝗶𝗼𝗻𝗮𝗹 𝗯𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱, in arts and languages, but I am strongly convinced they contributed a lot to my education as a developer.
+
 🏨 𝗬𝗼𝘂 𝗱𝗼𝗻'𝘁 𝗹𝗲𝗮𝗿𝗻 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀, but design patterns and mental structures.
+
 🎒 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗼𝘀 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴. Always. 
+
 🌪️ Organized chaos. Out of the box reasoning. I like to stimulate minds around me and propose 𝗮𝗹𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝘃𝗲 𝗮𝗻𝗱 𝗰𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀. 
 
 ### My CodePens && Gists: 
